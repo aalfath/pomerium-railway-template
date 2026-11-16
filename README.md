@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/pomerium-1?utm_medium=integration&utm_source=button&utm_campaign=pomerium)
+
 # Pomerium on Railway
 
 Deploys [Pomerium](https://github.com/pomerium/pomerium) **v0.34.1** (Pomerium Core, Apache-2.0), an identity-aware reverse proxy, as a Railway template. Pomerium signs users in and checks a policy on every request before passing it to the app behind it.
